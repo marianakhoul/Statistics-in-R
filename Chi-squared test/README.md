@@ -1,3 +1,0 @@
-# Chi-squared test
-
-
