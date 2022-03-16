@@ -19,7 +19,8 @@ frequencies and a vector of expected proportions (proportions must add
 up to 1). Independence takes in 2 vectors of frequencies. The formula
 for both the tests is the same.
 
-\[\chi^2 = \sum \frac {(O - E)^2}{E}\]
+
+![](Chi-Squared-Test_files/Chi-square test formula.png)<!-- -->
 
 Load Libaries
 
